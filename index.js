@@ -113,7 +113,7 @@ client.on("messageCreate", async message => {
     if (message.member.voice.channel == null) {
         return;
     }
-    if (message.content.toLowerCase() !== ("sp")) {
+    if (message.content.toLowerCase() !== ("www")) {
         return;
     };
     const connection = joinVoiceChannel({
