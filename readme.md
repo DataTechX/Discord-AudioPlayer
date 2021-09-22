@@ -9,7 +9,7 @@ npm insatll and npm i or npm i <packename>
 ```
 
 ### SETUP
-1. https://discord.com/developers/applications/id copy token paste in config.json
+1. https://discord.com/developers/applications/ copy token paste in config.json
 2. prefix you can custom
 3. you can copy music.mp3 paste in folder music
 
