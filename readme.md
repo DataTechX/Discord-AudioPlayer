@@ -14,7 +14,7 @@ npm insatll and npm i or npm i <packename>
 3. you can copy music.mp3 paste in folder music
 
 ## EXAMPLE
-!(Pullsong)[https://media.discordapp.net/attachments/890246493137674310/890246578919579658/unknown.png]
+![Pullsong](https://media.discordapp.net/attachments/890246493137674310/890246578919579658/unknown.png)
 
 ### SUPPORT
 ###### [Discord](https://discord.gg/nTyWvm5rS9) 
